@@ -171,3 +171,89 @@ webserver found: http://2.218.159.101:80/ , server header: DNVRS-Webs, title: <t
 webserver found: http://2.218.159.108:80/ , server header: lighttpd/1.4.28, title: null, login: true!
 webserver found: http://2.218.161.195:80/ , server header: Boa/0.94.14rc21, title: <title></title>, login: true!
 webserver found: http://2.218.163.4:80/ , server header: DNVRS-Webs, title: <title></title>, login: true!
+Scan gestartet
+Server gestartet auf Port: 1337
+Fehlgeschlagene Verbindung zu: http://192.168.4.1:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.1:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.1:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.2:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.2:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.2:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.3:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.3:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.3:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.4:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.4:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.4:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.5:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.5:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.5:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.6:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.6:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.6:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.7:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.7:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.7:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.8:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.8:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.8:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.9:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.9:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.9:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.10:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.10:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.10:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.11:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.11:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.11:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.12:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.12:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.12:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.13:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.13:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.13:8081/
+IP: 192.168.4.14, Port: 80, Webserver gefunden: http://192.168.4.14:80/, Server-Header: keine Angabe, Title: 
+Kindersicherung
+, Login: noauth
+Fehlgeschlagene Verbindung zu: http://192.168.4.14:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.14:8081/
+IP: 192.168.4.15, Port: 80, Webserver gefunden: http://192.168.4.15:80/, Server-Header: debut/1.30, Title: Brother MFC-L5750DW series, Login: true
+Fehlgeschlagene Verbindung zu: http://192.168.4.15:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.15:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.16:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.16:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.16:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.17:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.17:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.17:8081/
+IP: 192.168.4.18, Port: 80, Webserver gefunden: http://192.168.4.18:80/, Server-Header: keine Angabe, Title: Volumio - The Music Player, Login: noauth
+Fehlgeschlagene Verbindung zu: http://192.168.4.18:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.18:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.19:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.19:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.19:8081/
+IP: 192.168.4.20, Port: 80, Webserver gefunden: http://192.168.4.20:80/, Server-Header: openresty, Title: Default Site, Login: noauth
+IP: 192.168.4.20, Port: 8080, Webserver gefunden: http://192.168.4.20:8080/, Server-Header: nginx/1.25.4, Title: Fachschaft-ET, Login: noauth
+Fehlgeschlagene Verbindung zu: http://192.168.4.20:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.21:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.21:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.21:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.22:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.22:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.22:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.23:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.23:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.23:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.24:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.24:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.24:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.25:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.25:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.25:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.26:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.26:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.26:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.27:80/
+Fehlgeschlagene Verbindung zu: http://192.168.4.27:8080/
+Fehlgeschlagene Verbindung zu: http://192.168.4.27:8081/
+Fehlgeschlagene Verbindung zu: http://192.168.4.28:80/
